@@ -4,6 +4,8 @@ A supervised machine learning project that predicts churn risk for mobile app us
 
 ---
 
+![graphical_abstract](graphical_abstract.png)
+
 ## Project Goal
 
 The goal of this project is to identify which users are at risk of churning (stopping using the app) based on their in-app behavior. Early churn detection allows marketing and product teams to take targeted action such as sending re-engagement campaigns, offering discounts, or improving the experience for at-risk segments.
