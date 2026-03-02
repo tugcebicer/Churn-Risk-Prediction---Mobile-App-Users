@@ -1,4 +1,4 @@
-# Churn Risk Prediction — Mobile App Users
+# Churn Risk Prediction — Mobile App Users - Consumer Insight 
 
 A supervised machine learning project that predicts churn risk for mobile app users based on their in-app behavioral data.
 
